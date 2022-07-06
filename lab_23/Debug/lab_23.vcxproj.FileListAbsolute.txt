@@ -1,0 +1,2 @@
+C:\Users\1\Desktop\C++\lab_23\Debug\lab_23.exe
+C:\Users\1\Desktop\C++\lab_23\Debug\lab_23.pdb

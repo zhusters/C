@@ -1,0 +1,7 @@
+﻿  lab_28.cpp
+C:\Users\1\Desktop\C++\lab_28\lab_28.cpp(134,109): warning C4474: "fprintf" : для строки формата передано слишком много аргументов
+C:\Users\1\Desktop\C++\lab_28\lab_28.cpp(134,109): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 4
+C:\Users\1\Desktop\C++\lab_28\lab_28.cpp(215,18): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "double"
+C:\Users\1\Desktop\C++\lab_28\lab_28.cpp(305,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1\Desktop\C++\lab_28\lab_28.cpp(316,11): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_28.vcxproj -> C:\Users\1\Desktop\C++\lab_28\Debug\lab_28.exe

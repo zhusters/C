@@ -1,0 +1,9 @@
+FIO stud:	sam
+Year:	9999
+Number group:	999 
+Value:
+srednee: 0
+math: 1075970048
+phys:9
+inform: 9
+chym: 9

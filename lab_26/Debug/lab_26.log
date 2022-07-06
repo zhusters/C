@@ -1,0 +1,4 @@
+﻿  lab_26.cpp
+C:\Users\1\Desktop\C++\lab_26\lab_26.cpp(115,6): warning C4101: res: неиспользованная локальная переменная
+C:\Users\1\Desktop\C++\lab_26\lab_26.cpp(146): warning C4715: findkey: значение возвращается не при всех путях выполнения
+  lab_26.vcxproj -> C:\Users\1\Desktop\C++\lab_26\Debug\lab_26.exe

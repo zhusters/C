@@ -1,0 +1,5 @@
+﻿  lab_8.cpp
+C:\Users\1\Desktop\C++\lab_8\lab_8.cpp(117,110): warning C4474: "fprintf" : для строки формата передано слишком много аргументов
+C:\Users\1\Desktop\C++\lab_8\lab_8.cpp(117,110): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 4
+C:\Users\1\Desktop\C++\lab_8\lab_8.cpp(198,18): warning C4477: "fprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "double"
+  lab_8.vcxproj -> C:\Users\1\Desktop\C++\lab_8\Debug\lab_8.exe

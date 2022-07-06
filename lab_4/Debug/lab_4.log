@@ -1,0 +1,6 @@
+﻿  lab_4.cpp
+C:\Users\1\Desktop\C++\lab_4\lab_4.cpp(74,20): error C2601: rec: недопустимые локальные определения функций
+C:\Users\1\Desktop\C++\lab_4\lab_4.cpp(58): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\1\Desktop\C++\lab_4\lab_4.cpp(79,23): error C2601: simple: недопустимые локальные определения функций
+C:\Users\1\Desktop\C++\lab_4\lab_4.cpp(58): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\1\Desktop\C++\lab_4\lab_4.cpp(76,19): error C3861: y: идентификатор не найден
